@@ -2,8 +2,8 @@
 
 ## Install App 
  ```javascript
- git clone https://github.com/asepsetyawan9/react-redux.git
- cd react-redux
+ git clone https://github.com/asepsetyawan9/react-redux-app.git
+ cd react-redux-app
  npm install
  npm run server
 ```
